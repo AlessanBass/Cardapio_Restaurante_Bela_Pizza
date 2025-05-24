@@ -1,0 +1,23 @@
+<header>
+    <!--  <img src="logo.png" alt="Logo da marca"> -->
+    <nav class="container-slogans">
+        <a href="/">
+            <h4>Restaurante Bom Preço</h4>
+            <h4>Pizza Bella Pizza</h4>
+        </a>
+    </nav>
+
+    <div class="container-nav-links-pc">
+        <nav>
+            <a href="#cardapio">Cardápio</a> |
+            <a style="cursor: pointer;" (click)="openContact()">Contato</a> |
+            <a routerLink="/order">Meus Pedidos</a> |
+        </nav>
+
+        <div style="position: relative; display: inline-block;">
+            <p-overlayBadge severity="warn" [value]="carrinhoQtd">
+                <i class="fa-solid fa-cart-shopping" (click)="openDrawerCarrinho()"></i>
+            </p-overlayBadge>
+        </div>
+    </div>
+</header>

@@ -1,0 +1,30 @@
+header{
+    padding: 10px;
+    background-color: #84231f;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0px 0px 8px rgb(117, 113, 113);
+}
+
+.container-slogans{
+    padding: 5px 10px;
+    background-color: #30070a;
+    text-transform: uppercase;
+    text-align: center;
+    border-radius: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.container-nav-links-pc{
+    padding: 10px;
+    display: flex;
+    gap: 2px;
+    margin-right: 4rem;
+    font-size: 1.2rem;
+}

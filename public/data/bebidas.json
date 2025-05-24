@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "nome": "Coca-cola",
+        "ingredientes": "",
+        "preco": 8.00,
+        "imagem": "icon_fritas.png"
+    },
+    {
+        "id": 2,
+        "nome": "Coca-cola zero",
+        "ingredientes": "",
+        "preco": 8.00,
+        "imagem": "icon_fritas.png"
+    }
+]

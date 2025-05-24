@@ -1,0 +1,149 @@
+[
+    {
+        "id": 1,
+        "nome": "Calabresa",
+        "ingredientes": "Molho, calabresa e queijo.",
+        "preco": 0.00,
+        "imagem": "icon_fritas.png"
+    },
+    {
+        "id": 2,
+        "nome": "Calabresa C/ Cheddar",
+        "ingredientes": "Molho, calabresa, creme cheddar queijo.",
+        "preco": 0.00,
+        "imagem": "icon_fritas.png"
+    },
+    {
+        "id": 3,
+        "nome": "Portuguesa",
+        "ingredientes": "Molho, presunto, ovo cozido, milho, ervilha e queijo.",
+        "preco": 0.00,
+        "imagem": "icon_fritas.png"
+    },
+    {
+        "id": 4,
+        "nome": "Quatro Queijos",
+        "ingredientes": "Creme quatro queijos, creme cheddar e queijo mussarela.",
+        "preco": 0.00,
+        "imagem": "icon_fritas.png"
+    },
+    {
+        "id": 5,
+        "nome": "Carne Seca",
+        "ingredientes": "Molho, carne do sol na pressão desfiada e queijo.",
+        "preco": 0.00,
+        "imagem": "icon_fritas.png"
+    },
+    {
+        "id": 6,
+        "nome": "Bacon",
+        "ingredientes": "Molho, bacon frito e queijo mussarela.",
+        "preco": 0.00,
+        "imagem": "icon_fritas.png"
+    },
+    {
+        "id": 7,
+        "nome": "Carne com banana",
+        "ingredientes": "Molho, carne do sol na pressão, banana da terra frita e queijo.",
+        "preco": 0.00,
+        "imagem": "icon_fritas.png"
+    },
+    {
+        "id": 8,
+        "nome": "Frango",
+        "ingredientes": "Molho, frango desfiado, queijo mussarela.",
+        "preco": 0.00,
+        "imagem": "icon_fritas.png"
+    },
+    {
+        "id": 9,
+        "nome": "Frango C/ Catupiry",
+        "ingredientes": "Frango desfiado, catupiry e queijo.",
+        "preco": 0.00,
+        "imagem": "icon_fritas.png"
+    },
+    {
+        "id": 10,
+        "nome": "Frango C/ Milho",
+        "ingredientes": "Frango desfiado, milho e queijo.",
+        "preco": 0.00,
+        "imagem": "icon_fritas.png"
+    },
+    {
+        "id": 11,
+        "nome": "Caipira",
+        "ingredientes": "Molho, frango, bacon, milho e queijo mussarela.",
+        "preco": 0.00,
+        "imagem": "icon_fritas.png"
+    },
+    {
+        "id": 12,
+        "nome": "Bacon C/ Banana",
+        "ingredientes": "Bacon C/ banana frita e queijo mussarela.",
+        "preco": 0.00,
+        "imagem": "icon_fritas.png"
+    },
+    {
+        "id": 12,
+        "nome": "Presunto",
+        "ingredientes": "Presunto ralado, queijo mussarela.",
+        "preco": 0.00,
+        "imagem": "icon_fritas.png"
+    },
+    {
+        "id": 13,
+        "nome": "Milho",
+        "ingredientes": "Molho, milho e queijo mussarela.",
+        "preco": 0.00,
+        "imagem": "icon_fritas.png"
+    },
+    {
+        "id": 14,
+        "nome": "Atum",
+        "ingredientes": "Molho, atum e queijo.",
+        "preco": 0.00,
+        "imagem": "icon_fritas.png"
+    },
+    {
+        "id": 15,
+        "nome": "Peito de peru",
+        "ingredientes": "Molho, peito de peru fatiado e queijo mussarela.",
+        "preco": 0.00,
+        "imagem": "icon_fritas.png"
+    },
+    {
+        "id": 16,
+        "nome": "Mista",
+        "ingredientes": "Molho, bacon, calabresa, presunto, frango, queijo e mussarela.",
+        "preco": 0.00,
+        "imagem": "icon_fritas.png"
+    },
+    {
+        "id": 17,
+        "nome": "Camarão",
+        "ingredientes": "Camarão ao molho e queijo",
+        "preco": 0.00,
+        "imagem": "icon_fritas.png"
+    },
+    {
+        "id": 18,
+        "nome": "Lombinho canadense",
+        "ingredientes": "Molho lombinho e queijo",
+        "preco": 0.00,
+        "imagem": "icon_fritas.png"
+    },
+    {
+        "id": 19,
+        "nome": "Presunto c/ milho",
+        "ingredientes": "Molho, presunto, milho e queijo",
+        "preco": 0.00,
+        "imagem": "icon_fritas.png"
+    },
+    {
+        "id": 20,
+        "nome": "Calabresa Apimentada",
+        "ingredientes": "Molho, calabresa apimentada e queijo.",
+        "preco": 0.00,
+        "imagem": "icon_fritas.png"
+    }
+]
